@@ -1,0 +1,28 @@
+indexes:
+- kind: UserListExpNewExt
+  properties:
+  - name: is_blacklist
+  - name: open_time
+
+- kind: UserListExpNewExt
+  properties:
+  - name: nick_name
+  - name: usertype
+  - name: open_time
+
+- kind: UserListExpNewExt
+  properties:
+  - name: fix_name
+  - name: usertype
+  - name: open_time
+
+- kind: UserListExpNewExt
+  properties:
+  - name: fix_name
+  - name: usertype
+
+- kind: BlockUser
+  properties:
+  - name: from_name
+  - name: to_name
+

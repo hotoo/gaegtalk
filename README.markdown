@@ -1,4 +1,4 @@
-基于 Google App Engine 的 Gtalk 群聊服务，fork 于 [http://code.google.com/p/gtalkgroups/](gtalkgroups)
+基于 Google App Engine 的 Gtalk 群聊服务，fork 于 [gtalkgroups](http://code.google.com/p/gtalkgroups/)
 
 注意
 ====
